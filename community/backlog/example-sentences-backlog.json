@@ -852,7 +852,7 @@
     "jlpt": "N2",
     "id": 95,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "週末は友達と映画を見に行くつもりです。",
@@ -887,7 +887,7 @@
     "english": "He studies business Japanese to work in Japan.",
     "jlpt": "N3",
     "id": 99,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
