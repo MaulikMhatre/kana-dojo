@@ -2042,8 +2042,10 @@
     "backgroundColor": "oklch(17.0% 0.055 290.0 / 1)",
     "mainColor": "oklch(82.0% 0.195 310.0 / 1)",
     "secondaryColor": "oklch(74.0% 0.140 20.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "Frost-96",
+    "completedPR": 7253
   },
   {
     "id": "kintsugi-gold",
