@@ -346,7 +346,7 @@
     "backgroundColor": "oklch(13.0% 0.058 295.0 / 1)",
     "mainColor": "oklch(78.0% 0.195 45.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.220 310.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -447,7 +447,9 @@
     "mainColor": "oklch(55.0% 0.185 200.0 / 1)",
     "secondaryColor": "oklch(60.0% 0.155 25.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "MarianaAa01",
+    "completedPR": 10163
   },
   {
     "id": "sumo-strength",
@@ -1557,7 +1559,9 @@
     "mainColor": "oklch(68.0% 0.085 60.0 / 1)",
     "secondaryColor": "oklch(58.0% 0.045 70.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "Nitin23123",
+    "completedPR": 10155
   },
   {
     "id": "ruby-kabuki",
