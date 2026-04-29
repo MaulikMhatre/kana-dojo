@@ -176,7 +176,7 @@
     "english": "You're already dead.",
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -556,7 +556,7 @@
     "english": "But I refuse. (alt wording 4)",
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Rohan Kishibe",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -696,7 +696,7 @@
     "english": "You're already dead. (alt wording 18)",
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1398,5 +1398,17 @@
     "character": "Eren Yeager",
     "issued": true,
     "completed": false
+  },
+  {
+    "id": 15011,
+    "japanese": "お前はもう死んでいる",
+    "romaji": "Omae wa mou shindeiru",
+    "english": "You are already dead",
+    "anime": "Fist of the North Star",
+    "character": "Kenshiro",
+    "issued": false,
+    "completed": false,
+    "completedBy": "leeydev",
+    "completedPR": 15015
   }
 ]

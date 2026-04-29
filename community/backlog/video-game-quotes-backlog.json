@@ -556,7 +556,7 @@
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 56,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -816,7 +816,7 @@
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 82,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1156,7 +1156,7 @@
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 116,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

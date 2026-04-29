@@ -96,7 +96,7 @@
     "english": "Time is money",
     "meaning": "Time is valuable and should not be wasted",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 12,
@@ -1122,7 +1122,7 @@
     "english": "A bee on a crying face",
     "meaning": "Misfortune never comes alone",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 126,
@@ -1356,7 +1356,7 @@
     "english": "After the rain, the ground hardens",
     "meaning": "Hard times build resilience",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 152,

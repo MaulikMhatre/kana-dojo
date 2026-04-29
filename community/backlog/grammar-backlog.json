@@ -530,7 +530,7 @@
   {
     "id": 89,
     "text": "\"〜てもいいです\" means \"it's okay to\" and grants permission. (practice variation 4)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "id": 96,
     "text": "\"〜でしょう\" adds probability or softens statements, like \"probably\". (practice variation 11)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -728,7 +728,7 @@
   {
     "id": 122,
     "text": "\"〜ことになる\" indicates something was decided (by others or circumstances). (practice variation 37)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

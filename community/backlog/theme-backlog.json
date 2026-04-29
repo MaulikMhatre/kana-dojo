@@ -875,7 +875,9 @@
     "mainColor": "oklch(85.0% 0.135 55.0 / 1)",
     "secondaryColor": "oklch(68.0% 0.165 30.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "mahendra-shah",
+    "completedPR": 15031
   },
   {
     "id": "garden-bridge",
@@ -1406,7 +1408,7 @@
     "backgroundColor": "oklch(96.0% 0.015 210.0 / 1)",
     "mainColor": "oklch(60.0% 0.135 200.0 / 1)",
     "secondaryColor": "oklch(78.0% 0.065 100.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1704,7 +1706,7 @@
     "backgroundColor": "oklch(19.0% 0.035 250.0 / 1)",
     "mainColor": "oklch(70.0% 0.120 240.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.070 200.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

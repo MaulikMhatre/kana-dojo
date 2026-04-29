@@ -746,7 +746,7 @@
   {
     "id": 125,
     "fact": "The word 'yoroshiku' (よろしく) has no direct translation - it's used for introductions, requests, and meaning 'please treat me well'.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -830,7 +830,7 @@
   {
     "id": 139,
     "fact": "There's a Japanese practice 'sekihan' (赤飯) - eating red rice with beans on celebratory occasions, from birthdays to promotions.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -920,7 +920,7 @@
   {
     "id": 154,
     "fact": "Japan has 'purikura' photo booths that digitally enlarge eyes, smooth skin, and add sparkles to your photos automatically.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
