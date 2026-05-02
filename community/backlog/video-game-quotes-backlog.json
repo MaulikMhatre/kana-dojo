@@ -1058,7 +1058,7 @@
     "game": "JoJo’s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 106,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
